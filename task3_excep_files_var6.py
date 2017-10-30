@@ -31,3 +31,4 @@ try:
 except FileExistsError:
     print("Файл output_analize.txt уже существует")
     exit()
+
